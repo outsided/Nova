@@ -4,7 +4,7 @@ export const Offer = () => {
 		<section className='w-full'>
 			<div className={styles.container}>
 				<h2 className='text-[64px] font-bold '>We offer</h2>
-				<div className={styles.butto_1}><button >1</button></div>
+				<div className={styles.butto_1}><button ><img></img>1</button></div>
 				<div className={styles.butto_2}><button >2</button></div>
 				<div className={styles.butto_3}><button >3</button></div>
 				<div className={styles.butto_3}><button >4</button></div>
