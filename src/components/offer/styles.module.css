@@ -5,22 +5,21 @@
 }
 
 .butto_1{
-    
+    border: 1px solid #8051F8;
     width: 501px;
-    border: 1px solid red;
     padding: 35px 30px 35px 30px;
     border-radius: 15px;
 }
 .butto_2{
-
+    border: 1px solid #8051F8;
     width: 401px;
-    border: 1px solid red;
+  
     padding: 35px 30px 35px 30px;
     border-radius: 15px;
 }
 .butto_3{
+    border: 1px solid #8051F8;
     width: 300px;
-    border: 1px solid red;
     padding: 35px 30px 35px 30px;
     border-radius: 15px;
 }
