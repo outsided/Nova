@@ -1,25 +1,48 @@
+
 .container{
     display: flex;
-    gap: 10px;
+    width:1065px;
     flex-wrap: wrap;
+    gap: 30px;
+    
+    
 }
 
-.butto_1{
+.button_1{
+    font-family: '--font-montserrat';
+    height: 160px;
+    display:flex;
+    gap: 10px;
+    margin-left: 270px;
     border: 1px solid #8051F8;
     width: 501px;
     padding: 35px 30px 35px 30px;
     border-radius: 15px;
 }
-.butto_2{
+.button_2{
+    height: 160px;
+    display:flex;
+    gap: 10px;
     border: 1px solid #8051F8;
     width: 401px;
-  
     padding: 35px 30px 35px 30px;
     border-radius: 15px;
 }
-.butto_3{
+.button_3{
+    height: 160px;
+    display:flex;   
+     gap: 10px;
     border: 1px solid #8051F8;
     width: 300px;
+    padding: 35px 30px 35px 30px;
+    border-radius: 15px;
+} 
+.button_4{
+    height: 160px;
+    display:flex;
+    gap: 10px;
+    border: 1px solid #8051F8;
+    width: 501px;
     padding: 35px 30px 35px 30px;
     border-radius: 15px;
 }
