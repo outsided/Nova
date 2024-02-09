@@ -5,8 +5,8 @@ import {Offer} from '@/components/offer'
 function Home() {
 	return (
 		<>
-			<OfferIcon/>
 			<Offer/>
+			<OfferIcon/>
 		</>
 	)
 }
